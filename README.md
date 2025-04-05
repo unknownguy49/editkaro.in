@@ -148,4 +148,4 @@ Modify color variables in `css/styles.css` under `:root`:
 ## Contact
 
 - Email: [dibyadyutidutta49@gmail.com](mailto:dibyadyutidutta49@gmail.com)
-- LinkedIn: [Dibyadyuti Dutta - LinkedIn](linkedin.com/in/dibyadyuti-dutta)
+- LinkedIn: [Dibyadyuti Dutta - LinkedIn](https://linkedin.com/in/dibyadyuti-dutta)
